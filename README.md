@@ -47,7 +47,7 @@ A cutting-edge healthcare prediction platform that combines **multimodal QCNN (Q
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd quantum-dermo-ai
+cd QuantumHealth
 ```
 
 2. **Start all services**
